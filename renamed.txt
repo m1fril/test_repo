@@ -1,1 +1,2 @@
 This file is about to be renamed by two people at once.
+Main's version of the renamed file.
